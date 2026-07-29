@@ -60,7 +60,8 @@ Across 5 different crops and 5 different states, consistent price gaps of ₹500
 
 ## Dashboard Preview
 
-*(Insert your Power BI dashboard screenshot here)*
+<img width="1364" height="682" alt="image" src="https://github.com/user-attachments/assets/0215b510-8f5c-457f-96fd-faf8ec00e946" />
+
 
 ## Tech Stack
 
